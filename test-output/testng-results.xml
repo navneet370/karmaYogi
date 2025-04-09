@@ -1,44 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-08T21:54:30 IST" name="Default suite" finished-at="2025-04-08T21:55:04 IST" duration-ms="33385">
+  <suite started-at="2025-04-10T01:37:53 IST" name="Default suite" finished-at="2025-04-10T01:38:56 IST" duration-ms="63056">
     <groups>
     </groups>
-    <test started-at="2025-04-08T21:54:30 IST" name="Default test" finished-at="2025-04-08T21:55:04 IST" duration-ms="33385">
+    <test started-at="2025-04-10T01:37:53 IST" name="Default test" finished-at="2025-04-10T01:38:56 IST" duration-ms="63056">
       <class name="karmaYogi.AverageResponseTime">
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:30 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:54:57 IST" duration-ms="26844" status="PASS">
+        <test-method signature="testPageLoadAndCaptureApis()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:37:53 IST" name="testPageLoadAndCaptureApis" finished-at="2025-04-10T01:38:54 IST" duration-ms="60901" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:30 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:54:54 IST" duration-ms="24033" status="PASS">
+        </test-method> <!-- testPageLoadAndCaptureApis -->
+        <test-method signature="testPageLoadAndCaptureApis()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:37:53 IST" name="testPageLoadAndCaptureApis" finished-at="2025-04-10T01:38:55 IST" duration-ms="61571" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:30 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:54:54 IST" duration-ms="23992" status="PASS">
+        </test-method> <!-- testPageLoadAndCaptureApis -->
+        <test-method signature="testPageLoadAndCaptureApis()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:37:53 IST" name="testPageLoadAndCaptureApis" finished-at="2025-04-10T01:38:55 IST" duration-ms="61805" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:30 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:54:54 IST" duration-ms="23713" status="PASS">
+        </test-method> <!-- testPageLoadAndCaptureApis -->
+        <test-method signature="testPageLoadAndCaptureApis()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:37:53 IST" name="testPageLoadAndCaptureApis" finished-at="2025-04-10T01:38:55 IST" duration-ms="61898" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:30 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:54:54 IST" duration-ms="23710" status="PASS">
+        </test-method> <!-- testPageLoadAndCaptureApis -->
+        <test-method signature="testPageLoadAndCaptureApis()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:37:53 IST" name="testPageLoadAndCaptureApis" finished-at="2025-04-10T01:38:56 IST" duration-ms="62982" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:54 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:55:03 IST" duration-ms="9506" status="PASS">
+        </test-method> <!-- testPageLoadAndCaptureApis -->
+        <test-method is-config="true" signature="printAverageTime()[pri:0, instance:karmaYogi.AverageResponseTime@a1153bc]" started-at="2025-04-10T01:38:56 IST" name="printAverageTime" finished-at="2025-04-10T01:38:56 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method signature="measurePageLoadTime()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:54:54 IST" name="measurePageLoadTime" finished-at="2025-04-08T21:55:03 IST" duration-ms="9562" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- measurePageLoadTime -->
-        <test-method is-config="true" signature="calculate()[pri:0, instance:karmaYogi.AverageResponseTime@313ac989]" started-at="2025-04-08T21:55:04 IST" name="calculate" finished-at="2025-04-08T21:55:04 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- calculate -->
+        </test-method> <!-- printAverageTime -->
       </class> <!-- karmaYogi.AverageResponseTime -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
